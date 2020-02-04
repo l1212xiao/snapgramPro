@@ -27,7 +27,7 @@
         <spring-cloud.version>Dalston.SR1</spring-cloud.version>
 
         <slf4j.version>1.7.25</slf4j.version>
-        <olingo.version>4.3.0</olingo.version>
+        <olingo.version>4.7.1</olingo.version>
 
         <test.testng.version>6.11</test.testng.version>
         <test.jmockit.version>1.32</test.jmockit.version>
